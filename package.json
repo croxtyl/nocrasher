@@ -1,0 +1,16 @@
+{
+  "name": "nocrasher",
+  "version": "1.0.0",
+  "description": "nocrasher is an npm package designed to prevent crashes/stops of your node.js project caused by errors",
+  "main": "index.js",
+  "dependencies": {
+    "axios": "^1.6.2",
+    "colors": "^1.4.0",
+    "events": "^3.3.0"
+  },
+  "keywords": [
+    "anticrash",
+    "nocrasher",
+    "anti"
+  ]
+}
