@@ -1,4 +1,4 @@
-# noscrasher
+# nocrasher
 ## What is this and how do I use it?
 **nocrasher is an anti crash npm package designed to prevent crashes/stops of your node.js project caused by errors**
 >### Installation
